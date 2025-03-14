@@ -4,4 +4,6 @@ A simple and responsive currency converter built with React. This project utiliz
 
 Uses a custom hook to fetch exchange rates.
 
+Try it out: https://currency-converter-diya-thakurs-projects.vercel.app/
+
 
